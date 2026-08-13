@@ -1,2 +1,4 @@
 # studious-winner
-for study
+# for study
+
+<script  alert(«Я JavaScript!»)></script>
